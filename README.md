@@ -1,2 +1,1 @@
-# smj-zakat-ushr
-SMJ Zakat &amp; Ushr – Calculate, Track, Give, Complete
+SMJ Zakat & Ushr v8 — English-only. Language setting removed. JavaScript/source-display bug fixed.
